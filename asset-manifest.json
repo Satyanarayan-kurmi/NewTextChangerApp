@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewTextChangerApp/static/css/main.073c9b0a.css",
+    "main.js": "/NewTextChangerApp/static/js/main.90352b3c.js",
+    "static/js/787.688e4684.chunk.js": "/NewTextChangerApp/static/js/787.688e4684.chunk.js",
+    "index.html": "/NewTextChangerApp/index.html",
+    "main.073c9b0a.css.map": "/NewTextChangerApp/static/css/main.073c9b0a.css.map",
+    "main.90352b3c.js.map": "/NewTextChangerApp/static/js/main.90352b3c.js.map",
+    "787.688e4684.chunk.js.map": "/NewTextChangerApp/static/js/787.688e4684.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.90352b3c.js"
+  ]
+}
